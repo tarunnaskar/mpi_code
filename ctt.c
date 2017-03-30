@@ -1,6 +1,5 @@
 /**
 	Title  : Sequential Counting Sort for Characters using Pthreads
-	Author : Debendranath Das
 	Date   : 25.12.2016
 **/
 
